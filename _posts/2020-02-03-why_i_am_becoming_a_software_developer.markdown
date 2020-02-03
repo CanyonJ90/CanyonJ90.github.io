@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I am becoming a Software Developer "
-date:       2020-02-03 17:54:29 +0000
+date:       2020-02-03 12:54:30 -0500
 permalink:  why_i_am_becoming_a_software_developer
 ---
 
